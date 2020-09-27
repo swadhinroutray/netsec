@@ -4,7 +4,6 @@
 - A simple python script to take in an IP Address and test port connectivity. 
 - Ports are stored in the `PortTesting/ports.txt` file. 
 - You can simply add ports to the list and test the application
-- 
 
 #### TLS/SSL Scanner API
 - Uses the `pysslscan` package to run the sslScan
