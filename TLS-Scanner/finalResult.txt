@@ -1,0 +1,60 @@
+instagram.com
+=============
+Supported Server Cipher(s):
+  Accepted  TLSv10   128 bits TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA  
+  Accepted  TLSv10   256 bits TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA  
+  Accepted  TLSv10   128 bits TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA  
+  Accepted  TLSv10   256 bits TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA  
+  Accepted  TLSv10   128 bits TLS_RSA_WITH_AES_128_CBC_SHA  
+  Accepted  TLSv10   256 bits TLS_RSA_WITH_AES_256_CBC_SHA  
+  Accepted  TLSv10   168 bits TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA  
+  Accepted  TLSv10   168 bits TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA  
+  Accepted  TLSv10   168 bits TLS_RSA_WITH_3DES_EDE_CBC_SHA  
+  Accepted  TLSv10   128 bits TLS_ECDHE_ECDSA_WITH_RC4_128_SHA  
+  Accepted  TLSv10   128 bits TLS_ECDHE_RSA_WITH_RC4_128_SHA  
+  Accepted  TLSv10   128 bits TLS_RSA_WITH_RC4_128_SHA  
+  Accepted  TLSv11   128 bits TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA  
+  Accepted  TLSv11   256 bits TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA  
+  Accepted  TLSv11   128 bits TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA  
+  Accepted  TLSv11   256 bits TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA  
+  Accepted  TLSv11   128 bits TLS_RSA_WITH_AES_128_CBC_SHA  
+  Accepted  TLSv11   256 bits TLS_RSA_WITH_AES_256_CBC_SHA  
+  Accepted  TLSv11   168 bits TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA  
+  Accepted  TLSv11   168 bits TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA  
+  Accepted  TLSv11   168 bits TLS_RSA_WITH_3DES_EDE_CBC_SHA  
+  Accepted  TLSv11   128 bits TLS_ECDHE_ECDSA_WITH_RC4_128_SHA  
+  Accepted  TLSv11   128 bits TLS_ECDHE_RSA_WITH_RC4_128_SHA  
+  Accepted  TLSv11   128 bits TLS_RSA_WITH_RC4_128_SHA  
+  Accepted  TLSv12   128 bits TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256  
+  Accepted  TLSv12   256 bits TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384  
+  Accepted  TLSv12   128 bits TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256  
+  Accepted  TLSv12   256 bits TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384  
+  Accepted  TLSv12   128 bits TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA  
+  Accepted  TLSv12   256 bits TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA  
+  Accepted  TLSv12   128 bits TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA  
+  Accepted  TLSv12   256 bits TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA  
+  Accepted  TLSv12   128 bits TLS_RSA_WITH_AES_128_GCM_SHA256  
+  Accepted  TLSv12   256 bits TLS_RSA_WITH_AES_256_GCM_SHA384  
+  Accepted  TLSv12   128 bits TLS_RSA_WITH_AES_128_CBC_SHA  
+  Accepted  TLSv12   256 bits TLS_RSA_WITH_AES_256_CBC_SHA  
+  Accepted  TLSv12   168 bits TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA  
+  Accepted  TLSv12   168 bits TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA  
+  Accepted  TLSv12   168 bits TLS_RSA_WITH_3DES_EDE_CBC_SHA  
+  Accepted  TLSv12   128 bits TLS_ECDHE_ECDSA_WITH_RC4_128_SHA  
+  Accepted  TLSv12   128 bits TLS_ECDHE_RSA_WITH_RC4_128_SHA  
+  Accepted  TLSv12   128 bits TLS_RSA_WITH_RC4_128_SHA  
+Preferred Server Cipher(s):
+  SSLv3   Protocol version not supported
+  TLSv10   128 bits TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA 
+  TLSv11   128 bits TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA 
+  TLSv12   128 bits TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 
+Session:
+  Compression: none
+TLS renegotiation:
+  Supported: yes
+  Secure: yes
+EC Pointer Format(s):
+  uncompressed
+  ansiX962_compressed_prime
+  ansiX962_compressed_char2
+Heartbleed(Vulnerability)

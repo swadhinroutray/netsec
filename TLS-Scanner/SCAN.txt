@@ -1,0 +1,68 @@
+
+instagram.com
+=============
+
+Supported Server Cipher(s):
+  Accepted  [0mTLSv10 [0m [0;33m 128 bits[0m [0mTLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA[0m  
+  Accepted  [0mTLSv10 [0m [0;32m 256 bits[0m [0mTLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA[0m  
+  Accepted  [0mTLSv10 [0m [0;33m 128 bits[0m [0mTLS_ECDHE_RSA_WITH_AES_128_CBC_SHA[0m  
+  Accepted  [0mTLSv10 [0m [0;32m 256 bits[0m [0mTLS_ECDHE_RSA_WITH_AES_256_CBC_SHA[0m  
+  Accepted  [0mTLSv10 [0m [0;33m 128 bits[0m [0mTLS_RSA_WITH_AES_128_CBC_SHA[0m  
+  Accepted  [0mTLSv10 [0m [0;32m 256 bits[0m [0mTLS_RSA_WITH_AES_256_CBC_SHA[0m  
+  Accepted  [0mTLSv10 [0m [0;33m 168 bits[0m [0mTLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA[0m  
+  Accepted  [0mTLSv10 [0m [0;33m 168 bits[0m [0mTLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA[0m  
+  Accepted  [0mTLSv10 [0m [0;33m 168 bits[0m [0mTLS_RSA_WITH_3DES_EDE_CBC_SHA[0m  
+  Accepted  [0mTLSv10 [0m [0;33m 128 bits[0m [0mTLS_ECDHE_ECDSA_WITH_RC4_128_SHA[0m  
+  Accepted  [0mTLSv10 [0m [0;33m 128 bits[0m [0mTLS_ECDHE_RSA_WITH_RC4_128_SHA[0m  
+  Accepted  [0mTLSv10 [0m [0;33m 128 bits[0m [0mTLS_RSA_WITH_RC4_128_SHA[0m  
+  Accepted  [0mTLSv11 [0m [0;33m 128 bits[0m [0mTLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA[0m  
+  Accepted  [0mTLSv11 [0m [0;32m 256 bits[0m [0mTLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA[0m  
+  Accepted  [0mTLSv11 [0m [0;33m 128 bits[0m [0mTLS_ECDHE_RSA_WITH_AES_128_CBC_SHA[0m  
+  Accepted  [0mTLSv11 [0m [0;32m 256 bits[0m [0mTLS_ECDHE_RSA_WITH_AES_256_CBC_SHA[0m  
+  Accepted  [0mTLSv11 [0m [0;33m 128 bits[0m [0mTLS_RSA_WITH_AES_128_CBC_SHA[0m  
+  Accepted  [0mTLSv11 [0m [0;32m 256 bits[0m [0mTLS_RSA_WITH_AES_256_CBC_SHA[0m  
+  Accepted  [0mTLSv11 [0m [0;33m 168 bits[0m [0mTLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA[0m  
+  Accepted  [0mTLSv11 [0m [0;33m 168 bits[0m [0mTLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA[0m  
+  Accepted  [0mTLSv11 [0m [0;33m 168 bits[0m [0mTLS_RSA_WITH_3DES_EDE_CBC_SHA[0m  
+  Accepted  [0mTLSv11 [0m [0;33m 128 bits[0m [0mTLS_ECDHE_ECDSA_WITH_RC4_128_SHA[0m  
+  Accepted  [0mTLSv11 [0m [0;33m 128 bits[0m [0mTLS_ECDHE_RSA_WITH_RC4_128_SHA[0m  
+  Accepted  [0mTLSv11 [0m [0;33m 128 bits[0m [0mTLS_RSA_WITH_RC4_128_SHA[0m  
+  Accepted  [0;32mTLSv12 [0m [0;33m 128 bits[0m [0mTLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256[0m  
+  Accepted  [0;32mTLSv12 [0m [0;32m 256 bits[0m [0mTLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384[0m  
+  Accepted  [0;32mTLSv12 [0m [0;33m 128 bits[0m [0mTLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256[0m  
+  Accepted  [0;32mTLSv12 [0m [0;32m 256 bits[0m [0mTLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384[0m  
+  Accepted  [0;32mTLSv12 [0m [0;33m 128 bits[0m [0mTLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA[0m  
+  Accepted  [0;32mTLSv12 [0m [0;32m 256 bits[0m [0mTLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA[0m  
+  Accepted  [0;32mTLSv12 [0m [0;33m 128 bits[0m [0mTLS_ECDHE_RSA_WITH_AES_128_CBC_SHA[0m  
+  Accepted  [0;32mTLSv12 [0m [0;32m 256 bits[0m [0mTLS_ECDHE_RSA_WITH_AES_256_CBC_SHA[0m  
+  Accepted  [0;32mTLSv12 [0m [0;33m 128 bits[0m [0mTLS_RSA_WITH_AES_128_GCM_SHA256[0m  
+  Accepted  [0;32mTLSv12 [0m [0;32m 256 bits[0m [0mTLS_RSA_WITH_AES_256_GCM_SHA384[0m  
+  Accepted  [0;32mTLSv12 [0m [0;33m 128 bits[0m [0mTLS_RSA_WITH_AES_128_CBC_SHA[0m  
+  Accepted  [0;32mTLSv12 [0m [0;32m 256 bits[0m [0mTLS_RSA_WITH_AES_256_CBC_SHA[0m  
+  Accepted  [0;32mTLSv12 [0m [0;33m 168 bits[0m [0mTLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA[0m  
+  Accepted  [0;32mTLSv12 [0m [0;33m 168 bits[0m [0mTLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA[0m  
+  Accepted  [0;32mTLSv12 [0m [0;33m 168 bits[0m [0mTLS_RSA_WITH_3DES_EDE_CBC_SHA[0m  
+  Accepted  [0;32mTLSv12 [0m [0;33m 128 bits[0m [0mTLS_ECDHE_ECDSA_WITH_RC4_128_SHA[0m  
+  Accepted  [0;32mTLSv12 [0m [0;33m 128 bits[0m [0mTLS_ECDHE_RSA_WITH_RC4_128_SHA[0m  
+  Accepted  [0;32mTLSv12 [0m [0;33m 128 bits[0m [0mTLS_RSA_WITH_RC4_128_SHA[0m  
+
+Preferred Server Cipher(s):
+  [0mSSLv3  [0m Protocol version not supported
+  [0mTLSv10 [0m [0;33m 128 bits[0m [0mTLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA[0m 
+  [0mTLSv11 [0m [0;33m 128 bits[0m [0mTLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA[0m 
+  [0;32mTLSv12 [0m [0;33m 128 bits[0m [0mTLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256[0m 
+
+Session:
+  Compression: [0mnone[0m
+
+TLS renegotiation:
+  Supported: [0myes[0m
+  Secure: [0;32myes[0m
+
+EC Pointer Format(s):
+  uncompressed[0m
+  ansiX962_compressed_prime[0m
+  ansiX962_compressed_char2[0m
+
+Heartbleed(Vulnerability)
+
